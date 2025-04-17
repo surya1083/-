@@ -8,10 +8,10 @@ AlgorithmSortingVisualizer animates nine sorting algorithms (Bubble, Selection, 
 
 ## Tech Stack
 
-- React 18.3.1
-- Framer Motion 11.3.8
+- React 
+- Framer Motion 
 - CSS
-- Node.js 20.4.0
+- Node.js 
 
 ## Usage
 
