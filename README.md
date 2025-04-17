@@ -1,6 +1,6 @@
 # AlgorithmSortingVisualizer
 
-A React-based web app to visualize nine sorting algorithms with animated bars. Built with React 18.3.1 and Framer Motion 11.3.8, it offers interactive controls for learning algorithms or showcasing frontend skills.
+A React-based web app to visualize nine sorting algorithms with animated bars. Built with React 18.3.1 and Framer Motion 11.3.8, it offers interactive controls for learning algorithms.
 
 ## What It Is
 
