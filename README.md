@@ -1,29 +1,3 @@
-# AlgorithmSortingVisualizer
-
-A React-based web app to visualize nine sorting algorithms with animated bars. Built with React 18.3.1 and Framer Motion 11.3.8, it offers interactive controls for learning algorithms.
-
-## What It Is
-
-AlgorithmSortingVisualizer animates nine sorting algorithms (Bubble, Selection, Insertion, Merge, Quick, Heap, Counting, Radix, Bucket) using dynamic bars. It includes controls for running, pausing, resuming, and resetting sorts, with step-by-step prompts.
-
-## Tech Stack
-
-- React 
-- Framer Motion 
-- CSS
-- Node.js 
-
-## Usage
-
-1. **Start**: Opens with an empty visualizer and prompt: “Enter an array to start!”.
-2. **Input**: Type comma-separated integers (e.g., “-1,1000,23”, up to 15). Currently broken, use workaround.
-3. **Sort**: Select an algorithm, adjust speed, click “Run” to animate sorting with step prompts (e.g., “Comparing -1 and 1000”).
-4. **Pause/Resume**: Click “Pause” to stop, “Resume” to continue. Prompts show “Paused” or “Resumed”.
-5. **Reset**: Click “Reset” to clear and restart.
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
